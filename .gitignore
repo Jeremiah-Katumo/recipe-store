@@ -1,0 +1,5 @@
+.DS_store
+secrets.txt
+
+# Log files
+*.log
